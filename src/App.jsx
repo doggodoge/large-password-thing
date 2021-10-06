@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className={styles.app}>
-      <input type="text" value={text} onChange={event => setText(event.target.value)}/>
+      <input className={styles.textInput} type="text" value={text} onChange={event => setText(event.target.value)}/>
 
       <LargePasswordDisplay text={text}/>
     </div>
