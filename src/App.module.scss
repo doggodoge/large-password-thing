@@ -1,3 +1,32 @@
 .app {
   text-align: center;
 }
+
+.textInput {
+  padding: 10px;
+  margin: 10px;
+  border-style: none;
+  border-radius: 10px;
+  background-color: #eaeaea;
+  transition: 100ms;
+
+  &:focus {
+    font-size: medium;
+    border-bottom-style: solid;
+    border-bottom-color: cornflowerblue;
+    border-bottom-width: 4px;
+    outline-style: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    animation: border-move-up ease-in-out;
+    animation-duration: 200ms;
+  }
+
+  @keyframes border-move-up {
+    0% {
+      border-bottom-width: 1px;
+    }
+    100% {
+      border-bottom-width: 4px;
+    }
+  }
+}
