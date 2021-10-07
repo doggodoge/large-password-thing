@@ -3,11 +3,11 @@ import LargePasswordDisplayCell from './components/LargePasswordDisplayCell';
 import styles from './LargePasswordDisplay.module.scss';
 
 const LargePasswordDisplay = ({text}) => {
-  const charStack = [...text];
+  const chars = [...text];
 
   return (
     <div className={styles.container}>
-      {charStack.map((char, index) => (
+      {chars.map((char, index) => (
         <LargePasswordDisplayCell charNumber={index + 1}>{char}</LargePasswordDisplayCell>
       ))}
     </div>
