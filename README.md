@@ -1,5 +1,7 @@
 # Large Password Thing
 
+![image](https://user-images.githubusercontent.com/8438991/136312523-0f21271a-ca51-4613-8dfb-e359d7297308.png)
+
 I thought the modal that pops up when you click "view with large text" in 1password was kinda neat, the way it colored numbers and special characters.
 Also thought it would be neat to try and implement this myself as it didn't look like it would be too difficult.
 
