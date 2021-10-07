@@ -24,8 +24,9 @@ const generateLetterColor = (character) => {
 
 const LargePasswordDisplayCell = ({ charNumber, children: letter }) => {
   const evenColor = "#eaeaea";
+  const oddColor = '#ffffff'
 
-  const backgroundColorToUse = charNumber % 2 === 0 ? evenColor : null;
+  const backgroundColorToUse = charNumber % 2 === 0 ? evenColor : oddColor;
   const letterColorToUse = generateLetterColor(letter);
 
   return (
