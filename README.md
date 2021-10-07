@@ -1,5 +1,12 @@
 # Large Password Thing
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=doggodoge_large-password-thing&metric=alert_status)](https://sonarcloud.io/dashboard?id=doggodoge_large-password-thing)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=doggodoge_large-password-thing&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=doggodoge_large-password-thing)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=doggodoge_large-password-thing&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=doggodoge_large-password-thing)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=doggodoge_large-password-thing&metric=code_smells)](https://sonarcloud.io/dashboard?id=doggodoge_large-password-thing)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=doggodoge_large-password-thing&metric=bugs)](https://sonarcloud.io/dashboard?id=doggodoge_large-password-thing)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=doggodoge_large-password-thing&metric=sqale_index)](https://sonarcloud.io/dashboard?id=doggodoge_large-password-thing)
+
 ![image](https://user-images.githubusercontent.com/8438991/136312523-0f21271a-ca51-4613-8dfb-e359d7297308.png)
 
 I thought the modal that pops up when you click "view with large text" in 1password was kinda neat, the way it colored numbers and special characters.
