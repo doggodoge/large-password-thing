@@ -8,7 +8,10 @@ const LargePasswordDisplay = ({ text }) => {
   return (
     <div className={styles.container}>
       {chars.map((char, index) => (
-        <LargePasswordDisplayCell charNumber={index + 1}>
+        <LargePasswordDisplayCell
+          key={`${char}-${index}}`}
+          charNumber={index + 1}
+        >
           {char}
         </LargePasswordDisplayCell>
       ))}

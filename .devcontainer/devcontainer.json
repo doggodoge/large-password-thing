@@ -13,7 +13,9 @@
 				"jdinhlife.gruvbox"
 			],
 			"settings": {
-				"workbench.colorTheme": "Gruvbox Dark Medium"
+				"workbench.colorTheme": "Gruvbox Dark Medium",
+				"editor.fontFamily": "'Rec Mono Casual', Consolas, 'Courier New', monospace",
+				"editor.fontSize": 12
 			}
 		}
 	}
