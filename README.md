@@ -1,4 +1,7 @@
-# Large Password Thing
+> [!WARNING]
+    > Archived on GitHub and moved to https://git.sr.ht/~gary_moore/large-password-thing
+
+    # Large Password Thing
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=doggodoge_large-password-thing&metric=alert_status)](https://sonarcloud.io/dashboard?id=doggodoge_large-password-thing)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=doggodoge_large-password-thing&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=doggodoge_large-password-thing)
